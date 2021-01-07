@@ -8,5 +8,5 @@
 - Brève présentation de Scratch (2 versions)
 
 ## Liens Utiles
-- Le compte Scratch de [Graine de Partage](https://scratch.mit.edu/users/Gdp-Scratch/){target="_blank"}
-- Le compte Scratch [personnel](https://scratch.mit.edu/users/Gdp-Scratch/){target="_blank"}
+- Le compte Scratch de [Graine de Partage](https://scratch.mit.edu/users/Gdp-Scratch/){:target="_blank"}
+- Le compte Scratch [personnel](https://scratch.mit.edu/users/Gdp-Scratch/){:target="_blank"}
