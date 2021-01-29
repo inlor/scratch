@@ -17,6 +17,11 @@
 - Cours disponibles en ligne par [Code.org](https://studio.code.org/s/express-2019){:target="_blank"}
 - Projet en ligne: [conditions et boucles](https://scratch.mit.edu/projects/471241661/editor){:target="_blank"}
 
+
+## Cours 3
+- Interactions entre les objets 
+- Projet en ligne: [conditions et boucles](https://scratch.mit.edu/projects/478403203/editor){:target="_blank"}
+
 ## Liens Utiles
 - Le compte Scratch de [Graine de Partage](https://scratch.mit.edu/users/Gdp-Scratch/){:target="_blank"}
 - Le compte Scratch [personnel](https://scratch.mit.edu/users/equalsTo/){:target="_blank"}
