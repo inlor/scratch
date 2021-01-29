@@ -19,8 +19,8 @@
 
 
 ## Cours 3
-- Interactions entre les objets 
-- Projet en ligne: [conditions et boucles](https://scratch.mit.edu/projects/478403203/editor){:target="_blank"}
+- Interactions entre les objets (capteurs, opérateurs, variables)
+- Projet en ligne: [interactions](https://scratch.mit.edu/projects/478403203/editor){:target="_blank"}
 
 ## Liens Utiles
 - Le compte Scratch de [Graine de Partage](https://scratch.mit.edu/users/Gdp-Scratch/){:target="_blank"}
