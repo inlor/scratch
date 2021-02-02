@@ -17,10 +17,13 @@
 - Cours disponibles en ligne par [Code.org](https://studio.code.org/s/express-2019){:target="_blank"}
 - Projet en ligne: [conditions et boucles](https://scratch.mit.edu/projects/471241661/editor){:target="_blank"}
 
-
 ## Cours 3
-- Interactions entre les objets (capteurs, opérateurs, variables)
+- Interactions avec un objet (capteurs, opérateurs, variables)
 - Projet en ligne: [interactions](https://scratch.mit.edu/projects/478403203/editor){:target="_blank"}
+
+## Cours 4
+- Interactions entre les objets (capteurs, opérateurs, variables)
+- Projet en ligne: [interactions multiples](https://scratch.mit.edu/projects/480906731/editor){:target="_blank"}
 
 ## Liens Utiles
 - Le compte Scratch de [Graine de Partage](https://scratch.mit.edu/users/Gdp-Scratch/){:target="_blank"}
