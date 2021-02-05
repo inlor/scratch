@@ -24,6 +24,7 @@
 ## Cours 4
 - Interactions entre les objets (capteurs, opérateurs, variables)
 - Projet en ligne: [interactions multiples](https://scratch.mit.edu/projects/480906731/editor){:target="_blank"}
+- Exercices sur [code.org](https://studio.code.org/s/express-2019/stage/6/puzzle/2){:target="_blank"}
 
 ## Liens Utiles
 - Le compte Scratch de [Graine de Partage](https://scratch.mit.edu/users/Gdp-Scratch/){:target="_blank"}
