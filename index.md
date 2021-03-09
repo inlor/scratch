@@ -26,6 +26,10 @@
 - Projet en ligne: [interactions multiples](https://scratch.mit.edu/projects/480906731/editor){:target="_blank"}
 - Exercices sur [code.org](https://studio.code.org/s/express-2019/stage/6/puzzle/2){:target="_blank"}
 
+## Cours 5
+- Interactions plus complexes
+- Projet en ligne: [Rock paper scissors](https://scratch.mit.edu/projects/498650229/editor){:target="_blank"}
+
 ## Liens Utiles
 - Le compte Scratch de [Graine de Partage](https://scratch.mit.edu/users/Gdp-Scratch/){:target="_blank"}
 - Le compte Scratch [personnel](https://scratch.mit.edu/users/equalsTo/){:target="_blank"}
